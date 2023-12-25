@@ -2,3 +2,6 @@
 .DS_Store
 
 /pet
+/.cproject
+.settings
+
